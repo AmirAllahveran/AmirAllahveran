@@ -19,7 +19,7 @@ combining these two with my passion to do things in the right way I reached my f
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
-### :mailbox: Languages and Tools :
+### :mailbox: Contact Me :
 [![](https://img.shields.io/badge/-AmirAllahvern-lightgray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amir-allahvern-2471821a2/)
 [![](https://img.shields.io/badge/-amir79allavhern@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:amir79allahvern@gmail.com)
 
