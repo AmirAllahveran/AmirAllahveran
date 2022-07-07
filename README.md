@@ -1,6 +1,6 @@
 # Amir.Alh 👽
 
-## About Me
+### :man_technologist: About Me :
 Ambition and unquenchable thirst for knowledge are my strengths that are driving me get better every day and never stop
 making things better. My great interest in IT led me to have experience in both deployment and operation worlds and by
 combining these two with my passion to do things in the right way I reached my favorite job title, DevOps Engineer.
@@ -19,7 +19,8 @@ combining these two with my passion to do things in the right way I reached my f
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 </div>
 
-## Contact Me
+### :mailbox: Languages and Tools :
+[![](https://img.shields.io/badge/-AmirAllahvern-lightgray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amir-allahvern-2471821a2/)
 [![](https://img.shields.io/badge/-amir79allavhern@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:amir79allahvern@gmail.com)
 
 ### :fire: My Stats :
