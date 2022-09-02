@@ -31,7 +31,7 @@ combining these two with my passion to do things in the right way I reached my f
 </div>
 
 ### :mailbox: Contact Me :
-[![](https://img.shields.io/badge/-AmirAllahvern-lightgray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amir-allahveran-2471821a2/)
+[![](https://img.shields.io/badge/-AmirAllahveran-lightgray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amir-allahveran-2471821a2/)
 [![](https://img.shields.io/badge/-amir79allavhern@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:amir79allahvern@gmail.com)
 
 ### :fire: My Stats :
