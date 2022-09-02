@@ -24,5 +24,5 @@ combining these two with my passion to do things in the right way I reached my f
 [![](https://img.shields.io/badge/-amir79allavhern@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:amir79allahvern@gmail.com)
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmirAllahvern&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAllahvern&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AmirAllahveran&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAllahveran&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
