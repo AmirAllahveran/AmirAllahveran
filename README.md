@@ -8,8 +8,13 @@ combining these two with my passion to do things in the right way I reached my f
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-### :man_technologist: Research interest Me :
-
+### :#typing-mode-: Research interest Me :
+  - Cloud Computing
+  - Serverless Computing
+  - Computer Network
+  - Computer Security
+  - Operating Systems
+  - Software Defined Networking
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
