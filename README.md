@@ -3,7 +3,13 @@
 ### :man_technologist: About Me :
 Ambition and unquenchable thirst for knowledge are my strengths that are driving me get better every day and never stop
 making things better. My great interest in IT led me to have experience in both deployment and operation worlds and by
-combining these two with my passion to do things in the right way I reached my favorite job title, DevOps Engineer.
+combining these two with my passion to do things in the right way I reached my favorite job title, Site Reliability Engineer.
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+### :man_technologist: Research interest Me :
+
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -20,7 +26,7 @@ combining these two with my passion to do things in the right way I reached my f
 </div>
 
 ### :mailbox: Contact Me :
-[![](https://img.shields.io/badge/-AmirAllahvern-lightgray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amir-allahvern-2471821a2/)
+[![](https://img.shields.io/badge/-AmirAllahvern-lightgray?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/amir-allahveran-2471821a2/)
 [![](https://img.shields.io/badge/-amir79allavhern@gmail.com-lightgray?style=for-the-badge&logo=gmail)](mailto:amir79allahvern@gmail.com)
 
 ### :fire: My Stats :
