@@ -13,6 +13,8 @@ combining these two with my passion to do things in the right way I reached my f
 ### 🎓 Research interests:
   - Cloud Computing ☁
   - Serverless Computing
+  - Distributed systems
+  - Software Engineering
   - Computer Network
   - Computer Security
   - Operating Systems
