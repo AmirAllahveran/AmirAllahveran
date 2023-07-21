@@ -3,22 +3,12 @@
 <img src="https://komarev.com/ghpvc/?username=AmirAllahveran&style=flat-square&color=blue" alt=""/>
 
 ### :man_technologist: About Me :
+Hello there! My name is AmirAllahveran, a graduate student at the revered University of Calgary. Fueled by an insatiable hunger for knowledge and an unwavering ambition, I strive each day not only to become better but to augment everything within my sphere of influence. I firmly believe in the power of continual growth and the transformative potential of dedication and hard work.
+
 Ambition and unquenchable thirst for knowledge are my strengths that are driving me get better every day and never stop
 making things better. My great interest in IT led me to have experience in both deployment and operation worlds and by
 combining these two with my passion to do things in the right way I reached my favorite job title, Site Reliability Engineer.
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
-### 🎓 Research interests:
-  - Cloud Computing ☁
-  - Serverless Computing
-  - Distributed systems
-  - Software Engineering
-  - Computer Network
-  - Computer Security
-  - Operating Systems
-  - Software Defined Networking
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
