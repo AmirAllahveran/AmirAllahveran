@@ -3,11 +3,11 @@
 <img src="https://komarev.com/ghpvc/?username=AmirAllahveran&style=flat-square&color=blue" alt=""/>
 
 ### :man_technologist: About Me :
-Hello there! My name is AmirAllahveran, a graduate student at the revered University of Calgary. Fueled by an insatiable hunger for knowledge and an unwavering ambition, I strive each day not only to become better but to augment everything within my sphere of influence. I firmly believe in the power of continual growth and the transformative potential of dedication and hard work.
+Hello! My name is Amir Allahveran, and I am a Site Reliability Engineer.
 
-Ambition and unquenchable thirst for knowledge are my strengths that are driving me get better every day and never stop
-making things better. My great interest in IT led me to have experience in both deployment and operation worlds and by
-combining these two with my passion to do things in the right way I reached my favorite job title, Site Reliability Engineer.
+I am always curious and eager to learn new things. I try every day to improve myself and make the systems around me better. I believe in continuous growth and that hard work and dedication can improve anything.
+
+My ambition and strong desire to learn push me to get better every day and never stop improving. My interest in IT gave me experience in both deployment and operations. By combining these skills and my passion for doing things the right way, I found my favorite role: Site Reliability Engineer.
 
 
 ### :hammer_and_wrench: Languages and Tools :
